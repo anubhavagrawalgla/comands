@@ -14,6 +14,7 @@ cal
 used as calander
 ln
 
+g
 
 5
 echo
@@ -22,4 +23,5 @@ used to print some msg on terminal
 
 gg
 ggt
+
 
